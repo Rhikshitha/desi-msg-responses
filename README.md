@@ -2,6 +2,15 @@
 
 A fun web application that transforms your casual messages into typical Indian family responses! Now featuring AI-powered responses and multiple personas.
 
+<img width="1390" alt="image" src="https://github.com/user-attachments/assets/cdda1569-4e70-418b-a44b-6afb4d0522b8" />
+
+<img width="1409" alt="image" src="https://github.com/user-attachments/assets/6782fa0b-5eab-4019-8f0c-9ef82df70280" />
+
+<img width="1412" alt="image" src="https://github.com/user-attachments/assets/0b4bd36a-b4ff-4bd1-ab95-9f02f5b6bfe7" />
+
+<img width="1401" alt="image" src="https://github.com/user-attachments/assets/4adb2553-fd11-4b5f-ab5f-45f3073f8dba" />
+
+
 ## ✨ Features
 
 - **🧠 AI-Powered Responses**: Get unlimited, contextual responses using OpenAI GPT
